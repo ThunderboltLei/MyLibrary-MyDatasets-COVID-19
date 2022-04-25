@@ -363,7 +363,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 27021,Cass,Minnesota,US,2020-04-13 23:07:54,46.95043611,-94.32603968,4,0,0,4,"Cass, Minnesota, US"
 29037,Cass,Missouri,US,2020-04-13 23:07:54,38.64789422,-94.353399,42,2,0,40,"Cass, Missouri, US"
 31025,Cass,Nebraska,US,2020-04-13 23:07:54,40.90899107,-96.13971217,3,0,0,3,"Cass, Nebraska, US"
-38017,Cass,North Dakota,US,2020-04-13 23:07:54,46.93201724,-97.24447190000001,116,2,0,114,"Cass, North Dakota, US"
+38017,Cass,North Dakota,US,2020-04-13 23:07:54,46.93201724,-97.24447190000001,123,2,0,114,"Cass, North Dakota, US"
 48067,Cass,Texas,US,2020-04-13 23:07:54,33.07499881,-94.34646905,2,0,0,5,"Cass, Texas, US"
 16031,Cassia,Idaho,US,2020-04-13 23:07:54,42.28347888,-113.6012409,8,1,0,7,"Cassia, Idaho, US"
 48069,Castro,Texas,US,2020-04-13 23:07:54,34.53016752,-102.2617243,8,1,0,10,"Castro, Texas, US"
@@ -919,7 +919,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 47057,Grainger,Tennessee,US,2020-04-13 23:07:54,36.27469206,-83.51254721,4,0,0,4,"Grainger, Tennessee, US"
 8049,Grand,Colorado,US,2020-04-13 23:07:54,40.10603347,-106.11780420000001,4,0,0,4,"Grand, Colorado, US"
 49019,Grand,Utah,US,2020-04-13 23:07:54,38.98103848,-109.5704487,1,0,0,1,"Grand, Utah, US"
-38035,Grand Forks,North Dakota,US,2020-04-13 23:07:54,47.92093639,-97.45450447,11,0,0,11,"Grand Forks, North Dakota, US"
+38035,Grand Forks,North Dakota,US,2020-04-13 23:07:54,47.92093639,-97.45450447,12,0,0,11,"Grand Forks, North Dakota, US"
 50013,Grand Isle,Vermont,US,2020-04-13 23:07:54,44.797582399999996,-73.29679772,3,0,0,3,"Grand Isle, Vermont, US"
 26055,Grand Traverse,Michigan,US,2020-04-13 23:07:54,44.69565625,-85.55585247,17,3,0,14,"Grand Traverse, Michigan, US"
 5053,Grant,Arkansas,US,2020-04-13 23:07:54,34.29017991,-92.42320562,10,0,0,10,"Grant, Arkansas, US"
@@ -1592,7 +1592,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 35031,McKinley,New Mexico,US,2020-04-13 23:07:54,35.58007720000001,-108.262245,144,2,0,142,"McKinley, New Mexico, US"
 17113,McLean,Illinois,US,2020-04-13 23:07:54,40.48996987,-88.84621113,79,2,0,77,"McLean, Illinois, US"
 21149,McLean,Kentucky,US,2020-04-13 23:07:54,37.5301951,-87.26803443,7,1,0,6,"McLean, Kentucky, US"
-38055,McLean,North Dakota,US,2020-04-13 23:07:54,47.60766714,-101.3182418,2,0,0,2,"McLean, North Dakota, US"
+38055,McLean,North Dakota,US,2020-04-13 23:07:54,47.60766714,-101.3182418,3,0,0,2,"McLean, North Dakota, US"
 48309,McLennan,Texas,US,2020-04-13 23:07:54,31.55255453,-97.20217694,37,2,0,69,"McLennan, Texas, US"
 27085,McLeod,Minnesota,US,2020-04-13 23:07:54,44.82367677,-94.27287017,2,0,0,2,"McLeod, Minnesota, US"
 47107,McMinn,Tennessee,US,2020-04-13 23:07:54,35.42812616,-84.61520715,5,0,0,5,"McMinn, Tennessee, US"
@@ -1723,10 +1723,10 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 39117,Morrow,Ohio,US,2020-04-13 23:07:54,40.52363560000001,-82.7892599,9,0,0,9,"Morrow, Ohio, US"
 41049,Morrow,Oregon,US,2020-04-13 23:07:54,45.41846568,-119.584546,5,0,0,5,"Morrow, Oregon, US"
 20129,Morton,Kansas,US,2020-04-13 23:07:54,37.19141121,-101.79925190000002,1,0,0,1,"Morton, Kansas, US"
-38059,Morton,North Dakota,US,2020-04-13 23:07:54,46.71681782,-101.2822377,20,1,0,19,"Morton, North Dakota, US"
+38059,Morton,North Dakota,US,2020-04-13 23:07:54,46.71681782,-101.2822377,23,1,0,19,"Morton, North Dakota, US"
 48345,Motley,Texas,US,2020-04-13 23:07:54,34.07408766,-100.77972199999999,0,0,0,1,"Motley, Texas, US"
 17139,Moultrie,Illinois,US,2020-04-13 23:07:54,39.64187451,-88.62099969,2,0,0,2,"Moultrie, Illinois, US"
-38061,Mountrail,North Dakota,US,2020-04-13 23:07:54,48.20197971,-102.3555315,27,0,0,27,"Mountrail, North Dakota, US"
+38061,Mountrail,North Dakota,US,2020-04-13 23:07:54,48.20197971,-102.3555315,26,0,0,27,"Mountrail, North Dakota, US"
 27099,Mower,Minnesota,US,2020-04-13 23:07:54,43.67142874,-92.75234549,25,0,0,25,"Mower, Minnesota, US"
 21177,Muhlenberg,Kentucky,US,2020-04-13 23:07:54,37.21425819,-87.14632053,28,0,0,28,"Muhlenberg, Kentucky, US"
 41051,Multnomah,Oregon,US,2020-04-13 23:07:54,45.54747959,-122.4169351,398,19,0,379,"Multnomah, Oregon, US"
@@ -2229,7 +2229,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 21213,Simpson,Kentucky,US,2020-04-13 23:07:54,36.74058474,-86.58047435,17,1,0,16,"Simpson, Kentucky, US"
 28127,Simpson,Mississippi,US,2020-04-13 23:07:54,31.91282117,-89.91716179,7,0,0,7,"Simpson, Mississippi, US"
 19167,Sioux,Iowa,US,2020-04-13 23:07:54,43.08221074,-96.17675679999999,7,0,0,7,"Sioux, Iowa, US"
-38085,Sioux,North Dakota,US,2020-04-13 23:07:54,46.11323337,-101.04401490000001,1,0,0,1,"Sioux, North Dakota, US"
+38085,Sioux,North Dakota,US,2020-04-13 23:07:54,46.11323337,-101.04401490000001,0,0,0,1,"Sioux, North Dakota, US"
 6093,Siskiyou,California,US,2020-04-13 23:07:54,41.59198861,-122.54074340000001,5,0,0,5,"Siskiyou, California, US"
 53057,Skagit,Washington,US,2020-04-13 23:07:54,48.48171488,-121.766131,191,7,0,184,"Skagit, Washington, US"
 53059,Skamania,Washington,US,2020-04-13 23:07:54,46.02408726,-121.91644029999999,3,0,0,3,"Skamania, Washington, US"
@@ -3001,7 +3001,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Yemen,2020-04-13 23:07:34,15.552726999999999,48.516388,1,0,0,1,Yemen
 ,,,Zambia,2020-04-13 23:07:34,-13.133897,27.849332,45,2,30,13,Zambia
 ,,,Zimbabwe,2020-04-13 23:07:34,-19.015438,29.154857,17,3,0,14,Zimbabwe
-,,Unknown,China,2020-04-13 23:07:54,,,2263,0,0,0,"Unknown, China"
+,,Unknown,China,2020-04-13 23:07:54,,,2276,0,0,0,"Unknown, China"
 ,,,Kiribati,2020-04-13 23:07:54,-3.3704,-168.734,0,0,0,0,Kiribati
 ,,,Palau,2020-04-13 23:07:54,7.515,134.5825,0,0,0,0,Palau
 ,,Cook Islands,New Zealand,2020-04-13 23:07:54,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"

@@ -260,7 +260,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 13033,Burke,Georgia,US,2020-04-09 23:02:37,33.05917989,-81.99928721,20,0,0,20,"Burke, Georgia, US"
 37023,Burke,North Carolina,US,2020-04-09 23:02:37,35.74989637,-81.70755735,42,2,0,40,"Burke, North Carolina, US"
 38013,Burke,North Dakota,US,2020-04-09 23:02:37,48.79094471,-102.51821170000001,2,0,0,2,"Burke, North Dakota, US"
-38015,Burleigh,North Dakota,US,2020-04-09 23:02:37,46.97847375,-100.46452140000001,46,0,0,46,"Burleigh, North Dakota, US"
+38015,Burleigh,North Dakota,US,2020-04-09 23:02:37,46.97847375,-100.46452140000001,47,0,0,46,"Burleigh, North Dakota, US"
 48051,Burleson,Texas,US,2020-04-09 23:02:37,30.49273808,-96.62158484,4,0,0,5,"Burleson, Texas, US"
 34005,Burlington,New Jersey,US,2020-04-09 23:02:37,39.87681124,-74.66927768,883,21,0,862,"Burlington, New Jersey, US"
 48053,Burnet,Texas,US,2020-04-09 23:02:37,30.78801353,-98.181887,1,0,0,5,"Burnet, Texas, US"
@@ -353,7 +353,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 27021,Cass,Minnesota,US,2020-04-09 23:02:37,46.95043611,-94.32603968,3,0,0,3,"Cass, Minnesota, US"
 29037,Cass,Missouri,US,2020-04-09 23:02:37,38.64789422,-94.353399,26,1,0,25,"Cass, Missouri, US"
 31025,Cass,Nebraska,US,2020-04-09 23:02:37,40.90899107,-96.13971217,3,0,0,3,"Cass, Nebraska, US"
-38017,Cass,North Dakota,US,2020-04-09 23:02:37,46.93201724,-97.24447190000001,83,1,0,82,"Cass, North Dakota, US"
+38017,Cass,North Dakota,US,2020-04-09 23:02:37,46.93201724,-97.24447190000001,88,1,0,82,"Cass, North Dakota, US"
 48067,Cass,Texas,US,2020-04-09 23:02:37,33.07499881,-94.34646905,2,0,0,4,"Cass, Texas, US"
 16031,Cassia,Idaho,US,2020-04-09 23:02:37,42.28347888,-113.6012409,5,1,0,4,"Cassia, Idaho, US"
 48069,Castro,Texas,US,2020-04-09 23:02:37,34.53016752,-102.2617243,6,1,0,10,"Castro, Texas, US"
@@ -693,7 +693,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 49013,Duchesne,Utah,US,2020-04-09 23:02:37,40.29772254,-110.42523700000001,2,0,0,2,"Duchesne, Utah, US"
 ,Dukes and Nantucket,Massachusetts,US,2020-04-09 23:02:37,41.40674725,-70.68763497,18,1,0,17,"Dukes and Nantucket,Massachusetts,US"
 29069,Dunklin,Missouri,US,2020-04-09 23:02:37,36.27167174,-90.09122243,9,0,0,9,"Dunklin, Missouri, US"
-38025,Dunn,North Dakota,US,2020-04-09 23:02:37,47.35423935,-102.61604679999999,1,0,0,1,"Dunn, North Dakota, US"
+38025,Dunn,North Dakota,US,2020-04-09 23:02:37,47.35423935,-102.61604679999999,2,0,0,1,"Dunn, North Dakota, US"
 55033,Dunn,Wisconsin,US,2020-04-09 23:02:37,44.94562799,-91.8962481,7,0,0,7,"Dunn, Wisconsin, US"
 37061,Duplin,North Carolina,US,2020-04-09 23:02:37,34.93449805,-77.93140529,11,0,0,11,"Duplin, North Carolina, US"
 37063,Durham,North Carolina,US,2020-04-09 23:02:37,36.03638492,-78.87608331,243,1,0,242,"Durham, North Carolina, US"
@@ -1669,7 +1669,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 39117,Morrow,Ohio,US,2020-04-09 23:02:37,40.52363560000001,-82.7892599,6,0,0,6,"Morrow, Ohio, US"
 41049,Morrow,Oregon,US,2020-04-09 23:02:37,45.41846568,-119.584546,5,0,0,5,"Morrow, Oregon, US"
 20129,Morton,Kansas,US,2020-04-09 23:02:37,37.19141121,-101.79925190000002,1,0,0,1,"Morton, Kansas, US"
-38059,Morton,North Dakota,US,2020-04-09 23:02:37,46.71681782,-101.2822377,19,1,0,18,"Morton, North Dakota, US"
+38059,Morton,North Dakota,US,2020-04-09 23:02:37,46.71681782,-101.2822377,21,1,0,18,"Morton, North Dakota, US"
 17139,Moultrie,Illinois,US,2020-04-09 23:02:37,39.64187451,-88.62099969,2,0,0,2,"Moultrie, Illinois, US"
 38061,Mountrail,North Dakota,US,2020-04-09 23:02:37,48.20197971,-102.3555315,20,0,0,20,"Mountrail, North Dakota, US"
 27099,Mower,Minnesota,US,2020-04-09 23:02:37,43.67142874,-92.75234549,20,0,0,20,"Mower, Minnesota, US"
@@ -2151,7 +2151,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 21213,Simpson,Kentucky,US,2020-04-09 23:02:37,36.74058474,-86.58047435,14,1,0,13,"Simpson, Kentucky, US"
 28127,Simpson,Mississippi,US,2020-04-09 23:02:37,31.91282117,-89.91716179,6,0,0,6,"Simpson, Mississippi, US"
 19167,Sioux,Iowa,US,2020-04-09 23:02:37,43.08221074,-96.17675679999999,7,0,0,7,"Sioux, Iowa, US"
-38085,Sioux,North Dakota,US,2020-04-09 23:02:37,46.11323337,-101.04401490000001,1,0,0,1,"Sioux, North Dakota, US"
+38085,Sioux,North Dakota,US,2020-04-09 23:02:37,46.11323337,-101.04401490000001,0,0,0,1,"Sioux, North Dakota, US"
 6093,Siskiyou,California,US,2020-04-09 23:02:37,41.59198861,-122.54074340000001,4,0,0,4,"Siskiyou, California, US"
 53057,Skagit,Washington,US,2020-04-09 23:02:37,48.48171488,-121.766131,172,5,0,167,"Skagit, Washington, US"
 53059,Skamania,Washington,US,2020-04-09 23:02:37,46.02408726,-121.91644029999999,2,0,0,2,"Skamania, Washington, US"
@@ -2910,7 +2910,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,West Bank and Gaza,2020-04-09 23:02:19,31.9522,35.2332,263,1,44,218,West Bank and Gaza
 ,,,Zambia,2020-04-09 23:02:19,-13.133897,27.849332,39,1,24,14,Zambia
 ,,,Zimbabwe,2020-04-09 23:02:19,-19.015438,29.154857,11,3,0,8,Zimbabwe
-,,Unknown,China,2020-04-09 23:02:37,,,2174,0,0,0,"Unknown, China"
+,,Unknown,China,2020-04-09 23:02:37,,,2141,0,0,0,"Unknown, China"
 ,,,Kiribati,2020-04-09 23:02:37,-3.3704,-168.734,0,0,0,0,Kiribati
 ,,,Palau,2020-04-09 23:02:37,7.515,134.5825,0,0,0,0,Palau
 ,,Cook Islands,New Zealand,2020-04-09 23:02:37,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
