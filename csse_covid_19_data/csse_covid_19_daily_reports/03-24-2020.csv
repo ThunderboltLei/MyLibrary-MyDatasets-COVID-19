@@ -3260,7 +3260,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Antigua and Barbuda,2020-03-24 23:37:15,17.0608,-61.7964,3,0,0,3,Antigua and Barbuda
 ,,,Argentina,2020-03-24 23:37:15,-38.4161,-63.6167,387,6,52,329,Argentina
 ,,,Armenia,2020-03-24 23:37:15,40.0691,45.0382,249,0,14,235,Armenia
-,,,Austria,2020-03-24 23:37:15,47.5162,14.5501,5283,28,9,5246,Austria
+,,,Austria,2020-03-24 23:37:15,47.5162,14.5501,4073,34,9,5246,Austria
 ,,,Azerbaijan,2020-03-24 23:37:15,40.1431,47.5769,87,1,10,76,Azerbaijan
 ,,,Bahamas,2020-03-24 23:37:15,25.025885,-78.035889,5,0,1,4,Bahamas
 ,,,Bahrain,2020-03-24 23:37:15,26.0275,50.55,392,3,177,212,Bahrain
@@ -3444,3 +3444,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Antarctica,2020-03-24 23:37:31,-71.9499,23.347,0,0,0,0,Antarctica
 ,,Jersey,United Kingdom,2020-03-24 23:37:31,49.2138,-2.1358,16,0,0,0,"Jersey, United Kingdom"
 ,,Guernsey,United Kingdom,2020-03-24 23:37:31,49.448196,-2.58949,33,0,0,0,"Guernsey, United Kingdom"
+,,,"Korea, North",2020-03-24 23:37:31,40.3399,127.5101,0,0,0,0,"Korea, North"

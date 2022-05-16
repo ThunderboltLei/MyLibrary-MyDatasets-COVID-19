@@ -54,7 +54,7 @@ Qinghai,Mainland China,2020-02-21T04:43:02,18,0,18
 "Toronto, ON",Canada,2020-02-29T23:23:13,10,0,2
 Macau,Macau,2020-02-27T12:43:02,10,0,8
 Queensland,Australia,2020-02-29T02:03:10,9,0,1
-,Austria,2020-02-29T14:43:03,9,0,0
+,Austria,2020-02-29T14:43:03,3,0,0
 British Columbia,Canada,2020-02-29T23:23:13,8,0,3
 Victoria,Australia,2020-02-29T02:03:10,7,0,4
 ,Israel,2020-02-29T01:53:03,6,0,0
@@ -144,3 +144,4 @@ Unknown,Malaysia,2020-02-29T12:13:10,0,0,0
 ,Antarctica,2020-02-29T12:13:10,0,0,0
 Jersey,United Kingdom,2020-02-29T12:13:10,0,0,0
 Guernsey,United Kingdom,2020-02-29T12:13:10,0,0,0
+,"Korea, North",2020-02-29T12:13:10,0,0,0

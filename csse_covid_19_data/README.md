@@ -339,6 +339,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * May 09, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * May 09, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-04-30 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
 * May 09, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-05-05 | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
+* May 16, 2022 | Austria | Corrected from 2020-01-03 to 2022-05-11 | [Data Source](https://info.gesundheitsministerium.gv.at/data/timeline-faelle-bundeslaender.csv)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -570,7 +571,7 @@ United States
 * Pennsylvania: Providing data once per week (Wednesdays) (as of May 6, 2022).
 * South Carlina: Providing data weekly (Tuesdays) (as of March 15, 2022). ~~Providing data Monday-Friday.~~
 * South Dakota: Providing data weekly (as of April 12, 2022). ~~Providing data Monday-Friday (as of August 16, 2021). Providing data Wednesdays only.Saturday and Sunday data will be reported on Tuesdays.~~
-* Tennessee: Providing data Monday-Friday.
+* Tennessee: Providing data weekly. ~~Providing data Monday-Friday.~~
 * Utah: Providing data once weekly (Thursdays) (as of March 31, 2022). ~~Providing data Monday-Friday.~~
 * Vermont: ~~Providing data daily (as of August 21, 2021).~~ Providing data Monday-Friday.
 * Virginia: Providing data Monday-Friday.

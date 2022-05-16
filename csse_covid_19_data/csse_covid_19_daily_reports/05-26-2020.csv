@@ -3242,7 +3242,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Antigua and Barbuda,2020-05-27 02:32:31,17.0608,-61.7964,25,3,19,3,Antigua and Barbuda
 ,,,Argentina,2020-05-27 02:32:31,-38.4161,-63.6167,13228,484,4167,8577,Argentina
 ,,,Armenia,2020-05-27 02:32:31,40.0691,45.0382,7402,91,3220,4091,Armenia
-,,,Austria,2020-05-27 02:32:31,47.5162,14.5501,16557,643,15182,732,Austria
+,,,Austria,2020-05-27 02:32:31,47.5162,14.5501,16452,730,15182,732,Austria
 ,,,Azerbaijan,2020-05-27 02:32:31,40.1431,47.5769,4403,52,2819,1532,Azerbaijan
 ,,,Bahamas,2020-05-27 02:32:31,25.025885,-78.035889,100,11,46,43,Bahamas
 ,,,Bahrain,2020-05-27 02:32:31,26.0275,50.55,9366,14,4938,4414,Bahrain
@@ -3440,3 +3440,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Antarctica,2020-05-27 02:32:31,-71.9499,23.347,0,0,0,0,Antarctica
 ,,Jersey,United Kingdom,2020-05-27 02:32:31,49.2138,-2.1358,302,29,0,0,"Jersey, United Kingdom"
 ,,Guernsey,United Kingdom,2020-05-27 02:32:31,49.448196,-2.58949,252,16,0,0,"Guernsey, United Kingdom"
+,,,"Korea, North",2020-05-27 02:32:31,40.3399,127.5101,0,0,0,0,"Korea, North"

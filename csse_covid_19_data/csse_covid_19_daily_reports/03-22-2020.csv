@@ -3242,7 +3242,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Switzerland,3/22/20 23:45,46.8182,8.2275,7474,113,131,7230,Switzerland
 ,,,United Kingdom,3/22/20 23:45,55.3781,-3.436,5683,281,93,5309,United Kingdom
 ,,,Netherlands,3/22/20 23:45,52.1326,5.2913,4204,179,2,4023,Netherlands
-,,,Austria,3/22/20 23:45,47.5162,14.5501,3580,16,9,3555,Austria
+,,,Austria,3/22/20 23:45,47.5162,14.5501,2907,20,9,3555,Austria
 ,,,Belgium,3/22/20 23:45,50.8333,4.469936,3401,75,263,3063,Belgium
 ,,,Norway,3/22/20 23:45,60.472,8.4689,2263,7,6,2250,Norway
 ,,,Sweden,3/22/20 23:45,60.128161,18.643501,1931,21,16,1894,Sweden
@@ -3445,3 +3445,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Antarctica,3/22/20 23:45,-71.9499,23.347,0,0,0,0,Antarctica
 ,,Jersey,United Kingdom,3/22/20 23:45,49.2138,-2.1358,12,0,0,0,"Jersey, United Kingdom"
 ,,Guernsey,United Kingdom,3/22/20 23:45,49.448196,-2.58949,23,0,0,0,"Guernsey, United Kingdom"
+,,,"Korea, North",3/22/20 23:45,40.3399,127.5101,0,0,0,0,"Korea, North"
