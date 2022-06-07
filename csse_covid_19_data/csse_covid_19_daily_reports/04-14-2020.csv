@@ -1688,7 +1688,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 55081,Monroe,Wisconsin,US,2020-04-14 23:33:31,43.94641218,-90.61881899999999,8,1,0,7,"Monroe, Wisconsin, US"
 48337,Montague,Texas,US,2020-04-14 23:33:31,33.67521893,-97.72500958,3,0,0,5,"Montague, Texas, US"
 26117,Montcalm,Michigan,US,2020-04-14 23:33:31,43.31082541,-85.15252824,23,1,0,22,"Montcalm, Michigan, US"
-6053,Monterey,California,US,2020-04-14 23:33:31,36.21862405,-121.24133970000001,99,3,0,95,"Monterey, California, US"
+6053,Monterey,California,US,2020-04-14 23:33:31,36.21862405,-121.24133970000001,98,3,0,95,"Monterey, California, US"
 8083,Montezuma,Colorado,US,2020-04-14 23:33:31,37.33859579,-108.59588570000001,12,2,0,10,"Montezuma, Colorado, US"
 1101,Montgomery,Alabama,US,2020-04-14 23:33:31,32.2206831,-86.20969272,165,5,0,160,"Montgomery, Alabama, US"
 13209,Montgomery,Georgia,US,2020-04-14 23:33:31,32.17201038,-82.53527476,2,0,0,2,"Montgomery, Georgia, US"
