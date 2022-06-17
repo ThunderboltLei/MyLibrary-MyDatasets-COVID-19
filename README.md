@@ -215,7 +215,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - THL/National Infectious Disease Register: https://experience.arcgis.com/experience/92e9bb33fac744c9a084381fc35aa3c7
   - France:
     - French Ministry of Solidarity and Health and Public Health Dashboard: https://dashboard.covid19.data.gouv.fr/ (retired)
-    - French Ministry of Solidarity and Health and Public Health Data: https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/
+    - French Ministry of Solidarity and Health and Public Health Data: https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/ (stopped on May 17, 2022)
+    - French Ministry of Solidarity and Health and Public Health Data: https://www.data.gouv.fr/fr/datasets/synthese-des-indicateurs-de-suivi-de-lepidemie-covid-19/
     - OpenCOVID19: https://github.com/opencovid19-fr (retired)
   - Georgia:
     - Government of Georgia Ministry of Health: https://stopcov.ge/en
