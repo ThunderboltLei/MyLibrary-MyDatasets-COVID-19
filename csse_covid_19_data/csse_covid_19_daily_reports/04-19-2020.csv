@@ -165,7 +165,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 28009,Benton,Mississippi,US,2020-04-19 23:41:01,34.81681228,-89.18945516,7,0,0,7,"Benton, Mississippi, US"
 29015,Benton,Missouri,US,2020-04-19 23:41:01,38.29503305,-93.28756116,3,0,0,3,"Benton, Missouri, US"
 41003,Benton,Oregon,US,2020-04-19 23:41:01,44.49167306,-123.4316987,27,5,0,22,"Benton, Oregon, US"
-47005,Benton,Tennessee,US,2020-04-19 23:41:01,36.07110411,-88.06849355,4,1,0,4,"Benton, Tennessee, US"
+47005,Benton,Tennessee,US,2020-04-19 23:41:01,36.07110411,-88.06849355,4,0,0,4,"Benton, Tennessee, US"
 53005,Benton,Washington,US,2020-04-19 23:41:01,46.23946995,-119.5120834,313,37,0,276,"Benton, Washington, US"
 26019,Benzie,Michigan,US,2020-04-19 23:41:01,44.63899297,-86.01608482,3,0,0,3,"Benzie, Michigan, US"
 34003,Bergen,New Jersey,US,2020-04-19 23:41:01,40.96010917,-74.07164325,12639,767,0,11872,"Bergen, New Jersey, US"
@@ -352,7 +352,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 28015,Carroll,Mississippi,US,2020-04-19 23:41:01,33.44834567,-89.91994479,14,1,0,13,"Carroll, Mississippi, US"
 33003,Carroll,New Hampshire,US,2020-04-19 23:41:01,43.87498583,-71.20430216,30,0,0,30,"Carroll, New Hampshire, US"
 39019,Carroll,Ohio,US,2020-04-19 23:41:01,40.5789686,-81.09178213,15,1,0,14,"Carroll, Ohio, US"
-47017,Carroll,Tennessee,US,2020-04-19 23:41:01,35.97366108,-88.45189331,13,1,0,15,"Carroll, Tennessee, US"
+47017,Carroll,Tennessee,US,2020-04-19 23:41:01,35.97366108,-88.45189331,13,0,0,15,"Carroll, Tennessee, US"
 51035,Carroll,Virginia,US,2020-04-19 23:41:01,36.73066666,-80.73455942,3,0,0,3,"Carroll, Virginia, US"
 48065,Carson,Texas,US,2020-04-19 23:41:01,35.40365929,-101.3542669,1,0,0,1,"Carson, Texas, US"
 32510,Carson City,Nevada,US,2020-04-19 23:41:01,39.15509045,-119.7480219,28,0,0,28,"Carson City, Nevada, US"
@@ -640,7 +640,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 45031,Darlington,South Carolina,US,2020-04-19 23:41:01,34.33358335,-79.96027485,64,0,0,64,"Darlington, South Carolina, US"
 42043,Dauphin,Pennsylvania,US,2020-04-19 23:41:01,40.41377078,-76.77993242,367,9,0,358,"Dauphin, Pennsylvania, US"
 37057,Davidson,North Carolina,US,2020-04-19 23:41:01,35.79115496,-80.21256572,94,2,0,92,"Davidson, North Carolina, US"
-47037,Davidson,Tennessee,US,2020-04-19 23:41:01,36.17007426,-86.78646056,1723,22,0,1619,"Davidson, Tennessee, US"
+47037,Davidson,Tennessee,US,2020-04-19 23:41:01,36.17007426,-86.78646056,1723,19,0,1619,"Davidson, Tennessee, US"
 37059,Davie,North Carolina,US,2020-04-19 23:41:01,35.93099927,-80.54496571,23,2,0,21,"Davie, North Carolina, US"
 18027,Daviess,Indiana,US,2020-04-19 23:41:01,38.70186039,-87.07185406,34,3,0,31,"Daviess, Indiana, US"
 21059,Daviess,Kentucky,US,2020-04-19 23:41:01,37.73028906,-87.0901948,125,3,0,122,"Daviess, Kentucky, US"
@@ -1014,7 +1014,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 31081,Hamilton,Nebraska,US,2020-04-19 23:41:01,40.87349452,-98.02099117,19,0,0,19,"Hamilton, Nebraska, US"
 36041,Hamilton,New York,US,2020-04-19 23:41:01,43.66146647,-74.49721957,3,0,0,3,"Hamilton, New York, US"
 39061,Hamilton,Ohio,US,2020-04-19 23:41:01,39.19673558,-84.54502924,718,43,0,675,"Hamilton, Ohio, US"
-47065,Hamilton,Tennessee,US,2020-04-19 23:41:01,35.17670231,-85.16652245,118,14,0,104,"Hamilton, Tennessee, US"
+47065,Hamilton,Tennessee,US,2020-04-19 23:41:01,35.17670231,-85.16652245,118,12,0,104,"Hamilton, Tennessee, US"
 48193,Hamilton,Texas,US,2020-04-19 23:41:01,31.70470573,-98.11083887,4,0,0,5,"Hamilton, Texas, US"
 46057,Hamlin,South Dakota,US,2020-04-19 23:41:01,44.67385954,-97.18829593,2,0,0,2,"Hamlin, South Dakota, US"
 25013,Hampden,Massachusetts,US,2020-04-19 23:41:01,42.13440424,-72.63235561,2337,211,0,2126,"Hampden, Massachusetts, US"
@@ -1568,7 +1568,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 39101,Marion,Ohio,US,2020-04-19 23:41:01,40.58610662,-83.15736305,1834,2,0,1832,"Marion, Ohio, US"
 41047,Marion,Oregon,US,2020-04-19 23:41:01,44.90287942,-122.5815117,358,13,0,345,"Marion, Oregon, US"
 45067,Marion,South Carolina,US,2020-04-19 23:41:01,34.07859748,-79.36400756,15,1,0,14,"Marion, South Carolina, US"
-47115,Marion,Tennessee,US,2020-04-19 23:41:01,35.12997174,-85.62265895,29,2,0,27,"Marion, Tennessee, US"
+47115,Marion,Tennessee,US,2020-04-19 23:41:01,35.12997174,-85.62265895,29,1,0,27,"Marion, Tennessee, US"
 48315,Marion,Texas,US,2020-04-19 23:41:01,32.79868409,-94.3566123,1,0,0,3,"Marion, Texas, US"
 54049,Marion,West Virginia,US,2020-04-19 23:41:01,39.50984542,-80.24244659,42,1,0,41,"Marion, West Virginia, US"
 45069,Marlboro,South Carolina,US,2020-04-19 23:41:01,34.59905577,-79.67561152,28,0,0,28,"Marlboro, South Carolina, US"
@@ -1910,7 +1910,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 80015,Out of HI,Hawaii,US,2020-04-19 23:41:01,,,6,0,0,6,"Out of HI, Hawaii, US"
 80026,Out of MI,Michigan,US,2020-04-19 23:41:01,,,76,2,0,74,"Out of MI, Michigan, US"
 80040,Out of OK,Oklahoma,US,2020-04-19 23:41:01,,,0,0,0,0,"Out of OK, Oklahoma, US"
-80047,Out of TN,Tennessee,US,2020-04-19 23:41:01,,,125,0,0,273,"Out of TN, Tennessee, US"
+80047,Out of TN,Tennessee,US,2020-04-19 23:41:01,,,125,1,0,273,"Out of TN, Tennessee, US"
 55087,Outagamie,Wisconsin,US,2020-04-19 23:41:01,44.41578887,-88.46565023,35,2,0,33,"Outagamie, Wisconsin, US"
 47133,Overton,Tennessee,US,2020-04-19 23:41:01,36.34117832,-85.28989535,8,0,0,7,"Overton, Tennessee, US"
 18119,Owen,Indiana,US,2020-04-19 23:41:01,39.31145587,-86.83900724,21,1,0,20,"Owen, Indiana, US"
@@ -2073,7 +2073,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 18133,Putnam,Indiana,US,2020-04-19 23:41:01,39.66437981,-86.84517605,51,4,0,47,"Putnam, Indiana, US"
 36079,Putnam,New York,US,2020-04-19 23:41:01,41.42630093,-73.74965532,778,7,0,771,"Putnam, New York, US"
 39137,Putnam,Ohio,US,2020-04-19 23:41:01,41.02094889,-84.1336111,18,1,0,17,"Putnam, Ohio, US"
-47141,Putnam,Tennessee,US,2020-04-19 23:41:01,36.14005459,-85.50646123,93,5,0,93,"Putnam, Tennessee, US"
+47141,Putnam,Tennessee,US,2020-04-19 23:41:01,36.14005459,-85.50646123,93,2,0,93,"Putnam, Tennessee, US"
 54079,Putnam,West Virginia,US,2020-04-19 23:41:01,38.50782345,-81.9082131,14,0,0,14,"Putnam, West Virginia, US"
 35037,Quay,New Mexico,US,2020-04-19 23:41:01,35.10403332,-103.5481727,2,0,0,2,"Quay, New Mexico, US"
 24035,Queen Anne's,Maryland,US,2020-04-19 23:41:01,39.06198912,-76.03530977,25,2,0,23,"Queen Anne's, Maryland, US"
@@ -2138,7 +2138,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 51770,Roanoke City,Virginia,US,2020-04-19 23:41:01,37.27791025,-79.96189766,24,0,0,24,"Roanoke City, Virginia, US"
 46109,Roberts,South Dakota,US,2020-04-19 23:41:01,45.62975048,-96.94672673,4,0,0,4,"Roberts, South Dakota, US"
 48393,Roberts,Texas,US,2020-04-19 23:41:01,35.83809685,-100.813175,1,0,0,2,"Roberts, Texas, US"
-47147,Robertson,Tennessee,US,2020-04-19 23:41:01,36.52454807,-86.87346725,110,1,0,113,"Robertson, Tennessee, US"
+47147,Robertson,Tennessee,US,2020-04-19 23:41:01,36.52454807,-86.87346725,110,0,0,113,"Robertson, Tennessee, US"
 48395,Robertson,Texas,US,2020-04-19 23:41:01,31.02539637,-96.51272246,0,0,0,2,"Robertson, Texas, US"
 37155,Robeson,North Carolina,US,2020-04-19 23:41:01,34.64244496,-79.1025053,25,2,0,23,"Robeson, North Carolina, US"
 27133,Rock,Minnesota,US,2020-04-19 23:41:01,43.67482683,-96.25296832,3,0,0,3,"Rock, Minnesota, US"
@@ -2271,7 +2271,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 21211,Shelby,Kentucky,US,2020-04-19 23:41:01,38.21476019,-85.194223,23,2,0,21,"Shelby, Kentucky, US"
 29205,Shelby,Missouri,US,2020-04-19 23:41:01,39.79742518,-92.07634971,1,0,0,1,"Shelby, Missouri, US"
 39149,Shelby,Ohio,US,2020-04-19 23:41:01,40.33163494,-84.20258189,29,0,0,29,"Shelby, Ohio, US"
-47157,Shelby,Tennessee,US,2020-04-19 23:41:01,35.1864775,-89.89692423,1796,43,0,1743,"Shelby, Tennessee, US"
+47157,Shelby,Tennessee,US,2020-04-19 23:41:01,35.1864775,-89.89692423,1796,35,0,1743,"Shelby, Tennessee, US"
 48419,Shelby,Texas,US,2020-04-19 23:41:01,31.79211404,-94.14550696,37,0,0,60,"Shelby, Texas, US"
 51171,Shenandoah,Virginia,US,2020-04-19 23:41:01,38.85905135,-78.56813762,39,0,0,39,"Shenandoah, Virginia, US"
 27141,Sherburne,Minnesota,US,2020-04-19 23:41:01,45.44447208,-93.77617511,13,0,0,13,"Sherburne, Minnesota, US"
@@ -2390,7 +2390,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 39153,Summit,Ohio,US,2020-04-19 23:41:01,41.12464734,-81.53123079,350,34,0,316,"Summit, Ohio, US"
 49043,Summit,Utah,US,2020-04-19 23:41:01,40.86688146,-110.9535882,318,0,0,318,"Summit, Utah, US"
 20191,Sumner,Kansas,US,2020-04-19 23:41:01,37.23682549,-97.47721621,3,1,0,2,"Sumner, Kansas, US"
-47165,Sumner,Tennessee,US,2020-04-19 23:41:01,36.46824103,-86.45917204,533,33,0,479,"Sumner, Tennessee, US"
+47165,Sumner,Tennessee,US,2020-04-19 23:41:01,36.46824103,-86.45917204,533,30,0,479,"Sumner, Tennessee, US"
 1119,Sumter,Alabama,US,2020-04-19 23:41:01,32.59117397,-88.19916205,36,0,0,36,"Sumter, Alabama, US"
 12119,Sumter,Florida,US,2020-04-19 23:41:01,28.70181754,-82.0794267,147,11,0,136,"Sumter, Florida, US"
 13261,Sumter,Georgia,US,2020-04-19 23:41:01,32.03650571,-84.19821492,332,14,0,318,"Sumter, Georgia, US"
@@ -2989,7 +2989,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,2020-04-19 23:40:41,6.428055,-9.429499,81,7,7,67,Liberia
 ,,,Libya,2020-04-19 23:40:41,26.3351,17.228331,51,1,11,39,Libya
 ,,,Liechtenstein,2020-04-19 23:40:41,47.14,9.55,82,1,55,26,Liechtenstein
-,,,Lithuania,2020-04-19 23:40:41,55.1694,23.8813,1153,23,98,1032,Lithuania
+,,,Lithuania,2020-04-19 23:40:41,55.1694,23.8813,1119,23,98,1032,Lithuania
 ,,,Luxembourg,2020-04-19 23:40:41,49.8153,6.1296,3550,73,627,2850,Luxembourg
 ,,,MS Zaandam,2020-04-19 23:40:41,,,9,2,0,7,MS Zaandam
 ,,,Madagascar,2020-04-19 23:40:41,-18.766947,46.869107,121,0,39,82,Madagascar
@@ -3100,3 +3100,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Jersey,United Kingdom,2020-04-19 23:41:01,49.2138,-2.1358,230,11,0,0,"Jersey, United Kingdom"
 ,,Guernsey,United Kingdom,2020-04-19 23:41:01,49.448196,-2.58949,239,13,0,0,"Guernsey, United Kingdom"
 ,,,"Korea, North",2020-04-19 23:41:01,40.3399,127.5101,0,0,0,0,"Korea, North"
+,,Unknown,Ukraine,2020-04-19 23:41:01,,,0,0,0,0,"Unknown, Ukraine"

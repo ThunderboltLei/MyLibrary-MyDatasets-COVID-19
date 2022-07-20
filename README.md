@@ -290,7 +290,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Poland: 
     - Service of the Republic of Poland: https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2
   - Portugal:
-    - General Directorate of Health: https://esriportugal.maps.arcgis.com/apps/dashboards/acf023da9a0b4f9dbb2332c13f635829
+    - General Directorate of Health: https://esriportugal.maps.arcgis.com/apps/dashboards/acf023da9a0b4f9dbb2332c13f635829 (expired on March 13, 2022. Transferred to WHO.)
   - Romania:
     - Government of Romania: https://datelazi.ro/ 
   - Russia: 
